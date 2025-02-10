@@ -1,4 +1,4 @@
-# Hi there, I'm Swati! 👋
+# Hi, I'm Swati! 👋
 
 ## 🚀 About Me
 I am a passionate **Web Developer** with experience in building dynamic and scalable applications. I specialize in HTML5, CSS3 and Javascript working with modern technologies. I creating responsive and efficient user interfaces that enhance user experiences.
