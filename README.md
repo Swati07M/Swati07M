@@ -7,17 +7,18 @@ I am a passionate **Web Developer** with experience in building dynamic and scal
 - **Location:**  Pune, Maharashtra 
 
 ## 💻 Tech Stack
-- **Frontend:** HTML, CSS, JavaScript  
-- **Backend:** Node.js  
-- **Database:** MongoDB (with Mongoose)  
-- **Other:** REST APIs, JWT Authentication, Role-Based Access Control  
+- 🌐 **Front-End**: HTML, CSS, JavaScript
+- 🛠️ **Back-End**: Node.js
+- 💾 **Database**: MongoDB (with Mongoose)
+- 🎨 **Icons & UI**: Handling images in web development
 
 ## 📌 Projects
 🔹 **EasyPharma** –  This is mini E-commerce website categories wise shop any medicinal products  
 
 ## 📫 Connect With Me
-- GitHub: [https://github.com/Swati07M]  
-- LinkedIn: [https://www.linkedin.com/in/swati-mahajan-0170b423a]  
+- 💼 [LinkedIn](#)
+- 💻 [Portfolio](#)
+- ✉️ Email: your-email@example.com
 
 ### 📊 GitHub Stats:
 ![Swati's GitHub stats](https://github-readme-stats.vercel.app/api?username=Swati07M&show_icons=true&theme=radical)
