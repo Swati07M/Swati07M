@@ -16,9 +16,9 @@ I am a passionate **Web Developer** with experience in building dynamic and scal
 🔹 **EasyPharma** –  This is mini E-commerce website categories wise shop any medicinal products  
 
 ## 📫 Connect With Me
-- 💼 [LinkedIn](#)
+- 💼 [https://www.linkedin.com/in/swati-mahajan-0170b423a](#)
 - 💻 [Portfolio](#)
-- ✉️ Email: your-email@example.com
+- ✉️ Email: mahajanswati1996@gmail.com
 
 ### 📊 GitHub Stats:
 ![Swati's GitHub stats](https://github-readme-stats.vercel.app/api?username=Swati07M&show_icons=true&theme=radical)
