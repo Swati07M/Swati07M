@@ -20,6 +20,6 @@ I am a passionate **Web Developer** with experience in building dynamic and scal
 - LinkedIn: [https://www.linkedin.com/in/swati-mahajan-0170b423a]  
 
 ### 📊 GitHub Stats:
-![Swati's GitHub stats](https://github-readme-stats.vercel.app/api?Swati07M=Swati07M&show_icons=true&theme=radical)
+![Swati's GitHub stats](https://github-readme-stats.vercel.app/api?username=Swati07M&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?Swati07M=Swati07M&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Swati07M&layout=compact&theme=tokyonight)
