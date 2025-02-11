@@ -23,4 +23,5 @@ I am a passionate **Web Developer** with experience in building dynamic and scal
 ### 📊 GitHub Stats:
 ![Swati's GitHub stats](https://github-readme-stats.vercel.app/api?username=Swati07M&show_icons=true&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Swati07M&theme=radical)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Swati07M&layout=compact&theme=tokyonight)
